@@ -20,21 +20,21 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "An autopilot can be certified for single pilot IFR operations at night provided it is:",
+    "question": "Autopilot Capable:",
     "options": [
       "Dual channel and fail-operational",
-      "Autopilot capable",
+      "Single Pilot Under IFR at Night",
       "Coupled to TCAS",
       "Integrated with autothrottle"
     ],
     "correct": 1
   },
   {
-    "question": "When one probe of a multi-sensor EGT system is faulty, the indication:",
+    "question": "EGT something e5trb: ",
     "options": [
       "Decreases by 20° to 30°",
       "Increases by 20° to 30°",
-      "Is completely unaffected",
+      "Largely Unaffected",
       "Shows intermittent spikes"
     ],
     "correct": 2
@@ -107,7 +107,7 @@ const questions = [
       "While parked on the ground with engine running",
       "In flight"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "question": "TCAS uses which inputs?",
@@ -115,7 +115,7 @@ const questions = [
       "Mode S pressure altitude",
       "Radio altimeter",
       "Configuration",
-      "Inertial units"
+      "1, 2, 3 are correct"
     ],
     "correct": 1
   },
