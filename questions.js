@@ -117,7 +117,7 @@ const questions = [
       "Configuration",
       "1, 2, 3 are correct"
     ],
-    "correct": 1
+    "correct": 3
   },
   {
     "question": "The flight director provides information for the pilot:",
