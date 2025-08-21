@@ -87,7 +87,7 @@ const questions = [
       "Yaw axis",
       "Pitch and roll together"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "question": "The Flight Management Computer (FMC) consists of:",
